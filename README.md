@@ -1,5 +1,5 @@
 # java-scalatest
-Demonstrates how to test Java code with ScalaTest and ScalaCheck.
+Demonstrates how to test Java code with [ScalaTest](http://scalatest.org/) and [ScalaCheck](http://scalacheck.org/).
 
 ## Java Classes to Test
 * [User](src/main/java/org/sandbox/user/User.java)
