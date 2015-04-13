@@ -7,6 +7,6 @@ Demonstrates how to test Java code with ScalaTest and ScalaCheck.
 * [UserDAO](src/main/java/org/sandbox/user/UserDAO.java)
 
 ## ScalaTest Classes
-* [UserSpec](src/main/scala/org/sandbox/user/UserSpec.java)
-* [UserStatsSpec](src/main/scala/org/sandbox/user/UserStatsSpec.java)
-* [UserDAOSpec](src/main/scala/org/sandbox/user/UserDAOSpec.java)
+* [UserSpec](src/main/scala/org/sandbox/user/UserSpec.scala)
+* [UserStatsSpec](src/main/scala/org/sandbox/user/UserStatsSpec.scala)
+* [UserDAOSpec](src/main/scala/org/sandbox/user/UserDAOSpec.scala)
